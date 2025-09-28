@@ -1,1 +1,4 @@
 file was maked!
+
+commit 1 from master
+
